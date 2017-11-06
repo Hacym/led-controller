@@ -1,0 +1,5 @@
+led-controller.egg-info
+*.swp
+*.swo
+*~
+*.pyc
